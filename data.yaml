@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+nc: 3
+names: ['Bag', 'Bottle', 'Cup']
+
+roboflow:
+  workspace: engineer-bi8td
+  project: plastic-multiclass
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/engineer-bi8td/plastic-multiclass/dataset/4
