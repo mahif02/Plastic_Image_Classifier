@@ -11,6 +11,7 @@ test/
 dataset/
 
 *.pt
+!best.pt
 *.zip
 # Streamlit agent skills
 .agents/
