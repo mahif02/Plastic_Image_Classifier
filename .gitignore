@@ -12,3 +12,5 @@ dataset/
 
 *.pt
 *.zip
+# Streamlit agent skills
+.agents/
